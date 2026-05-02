@@ -10,7 +10,7 @@ __pycache__/
 *.pyd
 
 # Jupyter
-.ipynb_checkpoints
+.ipynb
 
 # Environment variables
 .env
@@ -36,12 +36,24 @@ Fakeddit/
 *dump*
 
 #temp
-*.rar
+_temp*
+
+#datasheets
 *.csv
+*.tsv
+*.json
+
+#docs
+*.pdf
+
+#images
 *.png
 *.jpeg
 *.jpg
-*.json
-_temp*
-*.pdf
-*history*
+
+#zip
+*.rar
+
+#Exceptions
+#requirements
+!requirements.txt

@@ -123,7 +123,7 @@ Recent ones are not as big as fakeddit dataset
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/fake-news-detection.git
+git clone https://github.com/LaughingParrot/CLIP-ViT-B-32-Based-Multimodal-Fake-News-Detection-Using-LPCL-Loss-Method-on-Fakeddit-Dataset fake-news-detection
 cd fake-news-detection
 
 # Create and activate virtual environment
